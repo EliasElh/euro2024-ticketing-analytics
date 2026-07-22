@@ -1,0 +1,6 @@
+fbref_euro2024.html
+euro2024_matches_raw.csv
+*.twbx
+*.hyper
+.venv/
+__pycache__/

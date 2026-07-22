@@ -1,0 +1,52 @@
+MATCH_ID,MATCH_DATE,PHASE,HOME_TEAM,AWAY_TEAM,STADIUM_NAME_OFFICIAL,ATTENDANCE,FILL_RATE_PCT,STADIUM_AVG_PCT,Z_SCORE
+51,2024-07-14,Final,Spain,England,Olympiastadion,65600,92.4,96.4,-1.82
+19,2024-06-21,Group stage,Slovakia,Ukraine,Düsseldorf Arena,43910,93.4,98.1,-1.77
+11,2024-06-18,Group stage,Türkiye,Georgia,BVB Stadion Dortmund,59127,95.4,97.6,-1.49
+39,2024-06-30,Round of 16,England,Slovakia,Arena AufSchalke,47244,94.5,97.7,-1.45
+21,2024-06-21,Group stage,Netherlands,France,Leipzig Stadium,38531,96.3,96.0,1.31
+8,2024-06-17,Group stage,Romania,Ukraine,Munich Football Arena,61591,93.3,96.2,-1.27
+22,2024-06-22,Group stage,Georgia,Czechia,Volksparkstadion Hamburg,46524,94.9,96.7,-1.24
+38,2024-06-29,Round of 16,Germany,Denmark,BVB Stadion Dortmund,61612,99.4,97.6,1.22
+34,2024-06-26,Group stage,Slovakia,Romania,Frankfurt Arena,45033,95.8,97.7,-1.16
+31,2024-06-25,Group stage,England,Slovenia,Cologne Stadium,41536,96.6,98.0,-1.16
+15,2024-06-19,Group stage,Scotland,Switzerland,Cologne Stadium,42711,99.3,98.0,1.11
+48,2024-07-06,Quarter-finals,Netherlands,Türkiye,Olympiastadion,70091,98.7,96.4,1.08
+5,2024-06-16,Group stage,Poland,Netherlands,Volksparkstadion Hamburg,48117,98.2,96.7,1.07
+1,2024-06-14,Group stage,Germany,Scotland,Munich Football Arena,65052,98.6,96.2,1.03
+43,2024-07-02,Round of 16,Romania,Netherlands,Munich Football Arena,65012,98.5,96.2,1
+49,2024-07-09,Semi-finals,Spain,France,Munich Football Arena,62042,94.0,96.2,-0.97
+26,2024-06-23,Group stage,Switzerland,Germany,Frankfurt Arena,46685,99.3,97.7,0.97
+9,2024-06-17,Group stage,Belgium,Slovakia,Frankfurt Arena,45181,96.1,97.7,-0.96
+2,2024-06-15,Group stage,Hungary,Switzerland,Cologne Stadium,41676,96.9,98.0,-0.89
+13,2024-06-19,Group stage,Croatia,Albania,Volksparkstadion Hamburg,46784,95.5,96.7,-0.87
+44,2024-07-02,Round of 16,Austria,Türkiye,Leipzig Stadium,38305,95.8,96.0,-0.86
+42,2024-07-01,Round of 16,Portugal,Slovenia,Frankfurt Arena,46576,99.1,97.7,0.83
+29,2024-06-25,Group stage,France,Poland,BVB Stadion Dortmund,59728,96.3,97.6,-0.83
+24,2024-06-22,Group stage,Belgium,Romania,Cologne Stadium,42535,98.9,98.0,0.77
+35,2024-06-26,Group stage,Georgia,Portugal,Arena AufSchalke,49616,99.2,97.7,0.71
+27,2024-06-24,Group stage,Croatia,Italy,Leipzig Stadium,38322,95.8,96.0,-0.7
+20,2024-06-21,Group stage,Poland,Austria,Olympiastadion,69455,97.8,96.4,0.67
+18,2024-06-20,Group stage,Spain,Italy,Arena AufSchalke,49528,99.1,97.7,0.63
+47,2024-07-06,Quarter-finals,England,Switzerland,Düsseldorf Arena,46907,99.8,98.1,0.62
+23,2024-06-22,Group stage,Türkiye,Portugal,BVB Stadion Dortmund,61047,98.5,97.6,0.61
+46,2024-07-05,Quarter-finals,Portugal,France,Volksparkstadion Hamburg,47789,97.5,96.7,0.6
+41,2024-07-01,Round of 16,France,Belgium,Düsseldorf Arena,46810,99.6,98.1,0.54
+32,2024-06-25,Group stage,Denmark,Serbia,Munich Football Arena,64288,97.4,96.2,0.52
+50,2024-07-10,Semi-finals,Netherlands,England,BVB Stadion Dortmund,60926,98.3,97.6,0.47
+36,2024-06-26,Group stage,Czechia,Türkiye,Volksparkstadion Hamburg,47683,97.3,96.7,0.44
+28,2024-06-24,Group stage,Albania,Spain,Düsseldorf Arena,46586,99.1,98.1,0.37
+17,2024-06-20,Group stage,Denmark,England,Frankfurt Arena,46177,98.2,97.7,0.32
+16,2024-06-20,Group stage,Slovenia,Serbia,Munich Football Arena,63028,95.5,96.2,-0.32
+3,2024-06-15,Group stage,Spain,Croatia,Olympiastadion,68844,97.0,96.4,0.27
+12,2024-06-18,Group stage,Portugal,Czechia,Leipzig Stadium,38421,96.1,96.0,0.25
+10,2024-06-17,Group stage,Austria,France,Düsseldorf Arena,46425,98.8,98.1,0.24
+40,2024-06-30,Round of 16,Spain,Georgia,Cologne Stadium,42233,98.2,98.0,0.18
+37,2024-06-29,Round of 16,Switzerland,Italy,Olympiastadion,68172,96.0,96.4,-0.16
+7,2024-06-16,Group stage,Serbia,England,Arena AufSchalke,48953,97.9,97.7,0.11
+30,2024-06-25,Group stage,Netherlands,Austria,Olympiastadion,68363,96.3,96.4,-0.04
+4,2024-06-15,Group stage,Italy,Albania,BVB Stadion Dortmund,60512,97.6,97.6,0.02
+6,2024-06-16,Group stage,Slovenia,Denmark,Stuttgart Arena,54000,100.0,100.0,
+45,2024-07-05,Quarter-finals,Spain,Germany,Stuttgart Arena,54000,100.0,100.0,
+25,2024-06-23,Group stage,Scotland,Hungary,Stuttgart Arena,54000,100.0,100.0,
+14,2024-06-19,Group stage,Germany,Hungary,Stuttgart Arena,54000,100.0,100.0,
+33,2024-06-26,Group stage,Ukraine,Belgium,Stuttgart Arena,54000,100.0,100.0,
