@@ -5,7 +5,7 @@ End-to-end analytics pipeline: web-collected attendance data, Python validation,
 **[Live dashboard on Tableau Public](https://public.tableau.com/app/profile/elias.el.hamdaoui1383/viz/UEFAEURO2024TicketingAttendanceAnalytics/UEFAEURO2024TicketingAttendanceAnalytics)**
 
 ## Architecture
-
+```
 FBref (official attendances)
     → collect_fbref.py        (collection)
     → clean_data.py           (cleaning + blocking validation checks)
@@ -13,7 +13,7 @@ FBref (official attendances)
     → Snowflake               (FACT_MATCHES + DIM_STADIUMS, 4 SQL views)
     → exports/*.csv           (materialized views)
     → Tableau Public          (interactive dashboard)
-
+```
 ## Data model
 
 Star schema in Snowflake: one fact table, FACT_MATCHES (one row per match: attendance, score, phase, date, stadium foreign key), and one dimension table, DIM_STADIUMS (one row per stadium: capacity, city, names). Facts hold measurable events; dimensions hold descriptive attributes. A phase_order column encodes tournament chronology so downstream tools sort phases correctly.
